@@ -1,5 +1,5 @@
 # Contributors
-
+- [Nic Bz](https://github.com/stepper2909)
 - [Rahul Samrat](https://github.com/rahulsamrat)
 - [Darren McGregor](https://github.com/avanzac)
 - [Nikita Chernykh](https://github.com/NikitaChernykh)
